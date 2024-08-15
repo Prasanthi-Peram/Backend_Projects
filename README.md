@@ -1,2 +1,2 @@
-# JSProjects
+# Backend
 Rock, Papers, Scissors, Shoot!!
